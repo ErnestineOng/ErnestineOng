@@ -1,5 +1,6 @@
-# 💫 About Me:
-### Hi there, I'm Ernestine! <br><br>🎓 **Data Science Student** at **BINUS University**<br>📍 Based in **Jakarta, Indonesia**<br><br><br>I'm a Data Science student interested in **Data Analytics, Machine Learning, and Data Visualization**. I enjoy working with data, building projects, and exploring how data can be used to understand problems and support better decisions.<br><br>Alongside academics, I’m also involved in **student organizations, volunteering, and collaborative projects**, where I continue developing my communication and teamwork skills.<br><br>This GitHub is a collection of my **projects, coursework, and learning journey** as I grow in the field of Data Science. <br>
+# Hi there, I'm Ernestine!👋
+
+#### 🎓 **Data Science Student** at **BINUS University**<br>📍 Based in **Jakarta, Indonesia**<br><br><br>I'm a Data Science student interested in **Data Analytics, Machine Learning, and Data Visualization**. I enjoy working with data, building projects, and exploring how data can be used to understand problems and support better decisions.<br><br>Alongside academics, I’m also involved in **student organizations, volunteering, and collaborative projects**, where I continue developing my communication and teamwork skills.<br><br>This GitHub is a collection of my **projects, coursework, and learning journey** as I grow in the field of Data Science. <br>
 
 
 ## 🌐 Socials:
